@@ -1,4 +1,4 @@
 # CatAsAServiceApp
 Get random cats!
 
-![Imgur](https://imgur.com/3CtzDy9)
+<img src="https://i.imgur.com/3CtzDy9.jpg" width="250" title="Demo">
